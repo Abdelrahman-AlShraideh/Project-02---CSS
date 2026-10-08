@@ -1,0 +1,10 @@
+.card {
+    	width: 250px;
+    	padding: 20px;
+    	border: 2px solid;
+    	transition: transform 0.3s ease;
+}
+
+.card:hover {
+    	transform: translateY(-8px) scale(1.05);
+}
